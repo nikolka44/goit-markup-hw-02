@@ -40,7 +40,7 @@ ol {
 .nav-link:focus {
 color: #404bbf;
 }
-.address-link {
+.header-address {
     font-style: normal;
 }
 .address-link {
@@ -108,6 +108,11 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+}
+.contacts-text {
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        text-align: center;
 }
 .contacts-list-ithem {
     background-color: #fff;
